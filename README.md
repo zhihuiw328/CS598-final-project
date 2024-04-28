@@ -44,6 +44,6 @@ Our models achieves the following performance on :
 
 | Model name                   | Average Precision | AUROC  | F1 Score | Sensitivity | Specificity |
 | ---------------------------- | ----------------- | ------ | -------- | ----------- | ----------- |
-| BIRNN_Time_Decay_Attention   |     0.2965        | 0.7028 |  0.3398  |   0.6755    |   0.6443    |
-| BIRNN_Time_Decay             |     0.2854        | 0.7028 |  0.3295  |   0.7282    |   0.5893    |
+| BIRNN_Time_Decay_Attention   |     0.3187        | 0.7369 |  0.3828  |   0.6341    |   0.7279    |
+| BIRNN_Time_Decay             |     0.2965        | 0.7028 |  0.3398  |   0.6755    |   0.6443    |
 
